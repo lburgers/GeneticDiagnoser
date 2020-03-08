@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.8c4c4ea1.chunk.js",
+    "main.js.map": "/static/js/main.8c4c4ea1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18445cb3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18445cb3.js.map",
+    "static/js/2.3eab3f69.chunk.js": "/static/js/2.3eab3f69.chunk.js",
+    "static/js/2.3eab3f69.chunk.js.map": "/static/js/2.3eab3f69.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec9cf1c1f3e8a27132cc9bf0b5a75d9e.js": "/precache-manifest.ec9cf1c1f3e8a27132cc9bf0b5a75d9e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3eab3f69.chunk.js.LICENSE.txt": "/static/js/2.3eab3f69.chunk.js.LICENSE.txt",
+    "static/media/probably-genetics.png": "/static/media/probably-genetics.1b7e23b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18445cb3.js",
+    "static/js/2.3eab3f69.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8c4c4ea1.chunk.js"
+  ]
+}

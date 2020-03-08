@@ -15,10 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include, re_path
-from . import api
+from .api import search_phenotypes
 from .frontend_view import FrontendAppView
 
 urlpatterns = [
-    path('api/', api.parse, name='parse'),
+    path('api/', search_phenotypes, name='search_phenotypes'),
     re_path(r'^', FrontendAppView.as_view())
 ]

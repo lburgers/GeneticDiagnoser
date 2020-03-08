@@ -1,0 +1,16 @@
+{
+    "name": "ProbablyGenetic",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "",
+    "author": "Lukas Burger",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "build": "cd frontend/ && yarn install && yarn build && cd ..",
+        "heroku-prebuild": "NODE_ENV=production cd frontend/ && yarn install && yarn build && cd .."
+    },
+    "cachedDirectories": [
+        "frontend/node_modules"
+    ]
+}
